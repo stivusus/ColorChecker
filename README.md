@@ -1,6 +1,7 @@
 # ColorChecker — pixel coordinates and color
 
 ![ColorChecker Screenshot](2025-11-26_024647.png)
+👉 Download ready-to-use [ColorChecker.exe](Release/ColorChecker.exe)
 
 ---
 
